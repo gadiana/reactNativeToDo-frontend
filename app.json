@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "slug": "frontend",
+  "extra": {
+    "eas": {
+      "projectId": "ebe12d90-5b69-4c6c-8de6-35beaeb87b16"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.ezekielfriction.frontend"
+    }
+  }
+}
